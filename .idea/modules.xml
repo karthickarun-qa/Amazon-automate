@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmazonAutomation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AmazonAutomation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmazonAutomation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AmazonAutomation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UI.project.iml" filepath="$PROJECT_DIR$/.idea/UI.project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UI.project.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UI.project.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UI.project.test.iml" filepath="$PROJECT_DIR$/.idea/modules/UI.project.test.iml" />
+    </modules>
+  </component>
+</project>
